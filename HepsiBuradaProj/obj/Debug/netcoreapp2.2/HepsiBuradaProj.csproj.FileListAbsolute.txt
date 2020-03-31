@@ -1,0 +1,11 @@
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/bin/Debug/netcoreapp2.2/HepsiBuradaProj.deps.json
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/bin/Debug/netcoreapp2.2/HepsiBuradaProj.runtimeconfig.json
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/bin/Debug/netcoreapp2.2/HepsiBuradaProj.runtimeconfig.dev.json
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/bin/Debug/netcoreapp2.2/HepsiBuradaProj.dll
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/bin/Debug/netcoreapp2.2/HepsiBuradaProj.pdb
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/obj/Debug/netcoreapp2.2/HepsiBuradaProj.csprojAssemblyReference.cache
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/obj/Debug/netcoreapp2.2/HepsiBuradaProj.csproj.CoreCompileInputs.cache
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/obj/Debug/netcoreapp2.2/HepsiBuradaProj.AssemblyInfoInputs.cache
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/obj/Debug/netcoreapp2.2/HepsiBuradaProj.AssemblyInfo.cs
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/obj/Debug/netcoreapp2.2/HepsiBuradaProj.dll
+/Users/ilhanozhamur/Projects/HepsiBuradaProj/obj/Debug/netcoreapp2.2/HepsiBuradaProj.pdb
